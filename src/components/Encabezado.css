@@ -1,0 +1,17 @@
+.encabezado {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.encabezado h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.encabezado-subtitulo {
+  margin: 5px 0 0;
+  font-size: 0.95rem;
+  color: #cfd3da;
+}

@@ -1,0 +1,21 @@
+.boton-personalizado {
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.boton-personalizado.primario {
+  background-color: #4a90d9;
+  color: white;
+}
+
+.boton-personalizado.secundario {
+  background-color: #e0e0e0;
+  color: #333;
+}
+
+.boton-personalizado:hover {
+  opacity: 0.9;
+}

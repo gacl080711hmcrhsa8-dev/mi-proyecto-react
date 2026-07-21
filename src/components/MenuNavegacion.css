@@ -1,0 +1,21 @@
+.menu-navegacion {
+  background-color: #3a3f4b;
+}
+
+.menu-navegacion ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 12px 20px;
+}
+
+.menu-navegacion a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.menu-navegacion a:hover {
+  text-decoration: underline;
+}

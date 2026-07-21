@@ -1,0 +1,23 @@
+.contador {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 220px;
+  text-align: center;
+}
+
+.contador-botones {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.contador-botones button {
+  padding: 6px 14px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4a90d9;
+  color: white;
+  cursor: pointer;
+}

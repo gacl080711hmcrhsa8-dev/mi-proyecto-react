@@ -1,0 +1,20 @@
+.tabla-registros {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+}
+
+.tabla-registros th,
+.tabla-registros td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.tabla-registros th {
+  background-color: #f2f2f2;
+}
+
+.tabla-registros tr:nth-child(even) {
+  background-color: #fafafa;
+}
