@@ -1,5 +1,4 @@
 import Encabezado from "./components/Encabezado";
-// PERSONA B: linea de prueba version B
 import MenuNavegacion from "./components/MenuNavegacion";
 import PiePagina from "./components/PiePagina";
 import TarjetaInformacion from "./components/TarjetaInformacion";
@@ -7,6 +6,8 @@ import TablaRegistros from "./components/TablaRegistros";
 import BotonPersonalizado from "./components/BotonPersonalizado";
 import TarjetaTarea from "./components/TarjetaTarea";
 import Contador from "./components/Contador";
+
+// PERSONA B: linea de prueba version B
 
 function App() {
   const enlacesMenu = [
@@ -28,7 +29,7 @@ function App() {
   return (
     <div>
       <Encabezado
-        titulo="Mi primera app en React - VERSION A"
+        titulo="Mi primera app en React"
         subtitulo="Proyecto configurado correctamente."
       />
 
@@ -105,5 +106,3 @@ export default App;
 // Primera modificacion de prueba
 
 // Segunda modificacion de prueba
-
-// PERSONA A: linea de prueba version A
