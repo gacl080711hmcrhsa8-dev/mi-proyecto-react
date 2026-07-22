@@ -7,7 +7,6 @@ import BotonPersonalizado from "./components/BotonPersonalizado";
 import TarjetaTarea from "./components/TarjetaTarea";
 import Contador from "./components/Contador";
 
-// PERSONA B: linea de prueba version B
 
 function App() {
   const enlacesMenu = [
@@ -30,7 +29,7 @@ function App() {
     <div>
       <Encabezado
         titulo="Mi primera app en React"
-        subtitulo="Proyecto configurado correctamente y listo para colaborar en equipo."
+        subtitulo="Proyecto listo para colaborar en equipo."
       />
 
       <MenuNavegacion enlaces={enlacesMenu} />
