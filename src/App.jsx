@@ -1,4 +1,5 @@
 import Encabezado from "./components/Encabezado";
+// PERSONA B: linea de prueba version B
 import MenuNavegacion from "./components/MenuNavegacion";
 import PiePagina from "./components/PiePagina";
 import TarjetaInformacion from "./components/TarjetaInformacion";
