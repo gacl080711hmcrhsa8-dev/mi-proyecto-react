@@ -7,6 +7,7 @@ import BotonPersonalizado from "./components/BotonPersonalizado";
 import TarjetaTarea from "./components/TarjetaTarea";
 import Contador from "./components/Contador";
 
+
 function App() {
   const enlacesMenu = [
     { label: "Inicio", href: "#" },
@@ -28,7 +29,7 @@ function App() {
     <div>
       <Encabezado
         titulo="Mi primera app en React"
-        subtitulo="Proyecto configurado correctamente."
+        subtitulo="Proyecto listo para colaborar en equipo."
       />
 
       <MenuNavegacion enlaces={enlacesMenu} />
