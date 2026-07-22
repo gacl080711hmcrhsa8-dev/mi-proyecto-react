@@ -28,7 +28,7 @@ function App() {
   return (
     <div>
       <Encabezado
-        titulo="Mi primera app en React"
+        titulo="Mi primera app en React - VERSION B"
         subtitulo="Proyecto configurado correctamente."
       />
 
