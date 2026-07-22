@@ -30,7 +30,7 @@ function App() {
     <div>
       <Encabezado
         titulo="Mi primera app en React"
-        subtitulo="Proyecto configurado correctamente."
+        subtitulo="Proyecto configurado correctamente y listo para colaborar en equipo."
       />
 
       <MenuNavegacion enlaces={enlacesMenu} />
